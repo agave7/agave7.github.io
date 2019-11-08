@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on blog&#39;s title</title>
+		<link>https://agave7.github.io/posts/</link>
+		<description>Recent content in Posts on blog&#39;s title</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-hans</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 07 Nov 2019 18:53:04 +0800</lastBuildDate>
+		<atom:link href="https://agave7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>基于个人发展视角的SWOT分析法应用</title>
+			<link>https://agave7.github.io/posts/hello_world/</link>
+			<pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
+			
+			<guid>https://agave7.github.io/posts/hello_world/</guid>
+			<description>基于个人发展的SWOT分析 swot分析，作为管理学中的常用工具，基本释义如下： S = strengths； W = weaknesses； O = opportunities; T = threats;</description>
+			<content type="html"><![CDATA[
+
+<h1 id="基于个人发展的swot分析">基于个人发展的SWOT分析</h1>
+
+<blockquote>
+<p>swot分析，作为管理学中的常用工具，基本释义如下：</p>
+
+<ul>
+<li>S = strengths；</li>
+<li>W = weaknesses；</li>
+<li>O = opportunities;</li>
+<li>T = threats;<br /></li>
+</ul>
+
+<hr />
+
+<p>在基于swot分析法对个人发展进行评估的过程中，内部
+条件（即优劣势）的评定可谓是极为重要的。而这个过
+程可通过情感的起伏来判定：即在过去的几年or几月or
+某个时间段内，你情绪的高潮点是做哪件事？低潮点又
+是做哪件事？</p>
+</blockquote>
+
+<p><del>还是等找到女朋友再写吧</del> 不对，万一一直找不到呢QAQ</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 18:53:04 +0800</lastBuildDate>
     
 	<atom:link href="https://agave7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>https://agave7.github.io/tags/untagged/</link>
+      <pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
+      
+      <guid>https://agave7.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
