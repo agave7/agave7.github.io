@@ -6,13 +6,13 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Thu, 07 Nov 2019 18:53:04 +0800</lastBuildDate>
+		<lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0800</lastBuildDate>
 		<atom:link href="https://agave7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>关于阶段性梳理</title>
 			<link>https://agave7.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%A2%B3%E7%90%861/</link>
-			<pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
+			<pubDate>Wed, 04 Dec 2019 00:00:00 +0800</pubDate>
 			
 			<guid>https://agave7.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%A2%B3%E7%90%861/</guid>
 			<description>关于阶段性梳理的想法及说明 委身苟且，心向光明。 生活忙碌却不充实，焦虑而无满足。故警思需阶段性地梳理所作所为，所需所念，保持满意、快乐的那一部</description>
@@ -50,6 +50,40 @@
 第六步，根据本阶段完成的事与长期计划的安排对比
 第七步，回到第一步列下一阶段的
 具体做法可以参照下一篇文章。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>弗洛伊德浅谈</title>
+			<link>https://agave7.github.io/posts/2frued/</link>
+			<pubDate>Fri, 29 Nov 2019 18:53:04 +0800</pubDate>
+			
+			<guid>https://agave7.github.io/posts/2frued/</guid>
+			<description>弗洛伊德（frued)浅谈 即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。 精神分析论者将其捧上神坛，</description>
+			<content type="html"><![CDATA[
+
+<h1 id="弗洛伊德-frued-浅谈">弗洛伊德（frued)浅谈</h1>
+
+<p>即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。
+精神分析论者将其捧上神坛，行为论者却又将其贬至深渊。他是创见，亦是偏见，是体系严密，亦是模糊不明，
+他就是争议本身。
+提到弗洛伊德，大家最先想到理论的一定是那几乎无人不知的三种人格：</p>
+
+<ul>
+<li><p>本我（id）</p></li>
+
+<li><p>自我（ego）</p></li>
+
+<li><p>超我（superego）</p></li>
+</ul>
+
+<p>对于光听名字而未曾做过细致了解的朋友们，他们大概会把这理解成自我人格的发展阶段。即一个人需要在历练
+中变得心智成熟从而意识到独立的自我的存在，然后又要在对人生的不断感悟中达到超我的境界。颇有一种“看
+山是山，看水是水”到“看山不是山，看水不是水”再到“看山还是山，看水还是水”的意境。准确地说，这样理解
+虽未尝不可，但还是离弗洛伊德的本义相去甚远。
+&gt; 是的，接触心理学之前的我也是这样想的
+那么这三种人格究竟意味着什么呢？
+<del>还是等找到女朋友再写吧</del> 不对，万一一直找不到呢QAQ</p>
 ]]></content>
 		</item>
 		
@@ -92,40 +126,6 @@
 
 <p><del>还是等找到女朋友再写吧</del> 不对，万一一直找不到呢QAQ</p>
 </blockquote>
-]]></content>
-		</item>
-		
-		<item>
-			<title>弗洛伊德浅谈</title>
-			<link>https://agave7.github.io/posts/2frued/</link>
-			<pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
-			
-			<guid>https://agave7.github.io/posts/2frued/</guid>
-			<description>弗洛伊德（frued)浅谈 即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。 精神分析论者将其捧上神坛，</description>
-			<content type="html"><![CDATA[
-
-<h1 id="弗洛伊德-frued-浅谈">弗洛伊德（frued)浅谈</h1>
-
-<p>即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。
-精神分析论者将其捧上神坛，行为论者却又将其贬至深渊。他是创见，亦是偏见，是体系严密，亦是模糊不明，
-他就是争议本身。
-提到弗洛伊德，大家最先想到理论的一定是那几乎无人不知的三种人格：</p>
-
-<ul>
-<li><p>本我（id）</p></li>
-
-<li><p>自我（ego）</p></li>
-
-<li><p>超我（superego）</p></li>
-</ul>
-
-<p>对于光听名字而未曾做过细致了解的朋友们，他们大概会把这理解成自我人格的发展阶段。即一个人需要在历练
-中变得心智成熟从而意识到独立的自我的存在，然后又要在对人生的不断感悟中达到超我的境界。颇有一种“看
-山是山，看水是水”到“看山不是山，看水不是水”再到“看山还是山，看水还是水”的意境。准确地说，这样理解
-虽未尝不可，但还是离弗洛伊德的本义相去甚远。
-&gt; 是的，接触心理学之前的我也是这样想的
-那么这三种人格究竟意味着什么呢？
-<del>还是等找到女朋友再写吧</del> 不对，万一一直找不到呢QAQ</p>
 ]]></content>
 		</item>
 		

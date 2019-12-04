@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 07 Nov 2019 18:53:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://agave7.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title>关于阶段性梳理</title>
       <link>https://agave7.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%A2%B3%E7%90%861/</link>
-      <pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0800</pubDate>
       
       <guid>https://agave7.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%A2%B3%E7%90%861/</guid>
       <description>关于阶段性梳理的想法及说明 委身苟且，心向光明。 生活忙碌却不充实，焦虑而无满足。故警思需阶段性地梳理所作所为，所需所念，保持满意、快乐的那一部</description>
+    </item>
+    
+    <item>
+      <title>弗洛伊德浅谈</title>
+      <link>https://agave7.github.io/posts/2frued/</link>
+      <pubDate>Fri, 29 Nov 2019 18:53:04 +0800</pubDate>
+      
+      <guid>https://agave7.github.io/posts/2frued/</guid>
+      <description>弗洛伊德（frued)浅谈 即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。 精神分析论者将其捧上神坛，</description>
     </item>
     
     <item>
@@ -28,15 +37,6 @@
       
       <guid>https://agave7.github.io/posts/hello_world/</guid>
       <description>基于个人发展的SWOT分析 swot分析，作为管理学中的常用工具，基本释义如下： S = strengths； W = weaknesses； O = opportunities; T = threats;</description>
-    </item>
-    
-    <item>
-      <title>弗洛伊德浅谈</title>
-      <link>https://agave7.github.io/posts/2frued/</link>
-      <pubDate>Thu, 07 Nov 2019 18:53:04 +0800</pubDate>
-      
-      <guid>https://agave7.github.io/posts/2frued/</guid>
-      <description>弗洛伊德（frued)浅谈 即使你不懂心理学，但是你一定听过弗洛伊德，他是最富盛名的心理学家，亦是最具争议的空谈者。 精神分析论者将其捧上神坛，</description>
     </item>
     
   </channel>
